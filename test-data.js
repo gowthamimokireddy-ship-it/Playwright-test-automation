@@ -12,15 +12,16 @@ module.exports = {
     selectIndex: 0
   },
   address: {
-    fullName: "Test User",
+    fullName: "Gowthami Mokireddy",
     line1: "123 Test St",
     city: "Testville",
     state: "TestState",
     zip: "12345",
-    country: "Testland",
-    phone: "5555555555"
+    country: "India",
+    phone: "9740891910"
   },
   payment: {
     method: "Check / Money Order"
   }
+  
 };
